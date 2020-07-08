@@ -49,6 +49,6 @@ def wrapper(func):
 def wrapped():
     pass
 
-print("dev1")
+print("dev")
 
 print(wrapped.__name__)
