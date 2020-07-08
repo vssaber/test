@@ -50,5 +50,7 @@ def wrapped():
     pass
 
 print("dev")
+print("dev")
+
 
 print(wrapped.__name__)
