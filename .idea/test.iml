@@ -6,4 +6,7 @@
     <orderEntry type="module" module-name="CS61A" />
     <orderEntry type="module" module-name="CS61A" />
   </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
 </module>
