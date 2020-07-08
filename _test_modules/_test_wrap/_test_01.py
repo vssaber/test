@@ -51,6 +51,8 @@ def wrapped():
 
 print("dev")
 print("dev")
+print("dev")
+print("dev1")
 
 
 print(wrapped.__name__)
