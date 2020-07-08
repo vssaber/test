@@ -56,4 +56,5 @@ print("dev1")
 
 
 print(wrapped.__name__)
-print(wrapped.__name__)print(wrapped.__name__)
+print(wrapped.__name__)
+print(wrapped.__name__)
