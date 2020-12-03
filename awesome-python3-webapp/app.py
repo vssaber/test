@@ -20,10 +20,3 @@ loop.run_until_complete(init(loop))
 loop.run_forever()
 
 print("its ok")
-print("its ok")
-print("its ok")
-print("its ok")
-
-
-print("its not ok")
-print("its not ok")
