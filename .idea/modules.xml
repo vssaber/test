@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/CODE/Python_workspace/workspace_01/CS61A/.idea/CS61A.iml" filepath="D:/CODE/Python_workspace/workspace_01/CS61A/.idea/CS61A.iml" />
+      <module fileurl="file://D:/CODE/Python_workspace/workspace_01/CS_ANSWER/.idea/CS_ANSWER.iml" filepath="D:/CODE/Python_workspace/workspace_01/CS_ANSWER/.idea/CS_ANSWER.iml" />
+      <module fileurl="file://D:/CODE/Python_workspace/workspace_01/apps/.idea/apps.iml" filepath="D:/CODE/Python_workspace/workspace_01/apps/.idea/apps.iml" />
+      <module fileurl="file://D:/CODE/Python_workspace/workspace_01/crawler/.idea/crawler.iml" filepath="D:/CODE/Python_workspace/workspace_01/crawler/.idea/crawler.iml" />
+      <module fileurl="file://D:/CODE/Python_workspace/enos-mqtt-sdk-python-master/.idea/enos-mqtt-sdk-python-master.iml" filepath="D:/CODE/Python_workspace/enos-mqtt-sdk-python-master/.idea/enos-mqtt-sdk-python-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/testings.iml" filepath="$PROJECT_DIR$/../.idea/testings.iml" />
     </modules>
   </component>
 </project>
