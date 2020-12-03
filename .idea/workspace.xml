@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4312d8a-bd49-4fc3-a424-1324074cd33d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+>>>>>>> remotes/origin/archer
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/awesome-python3-webapp/app.py">
@@ -34,6 +41,23 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1910" />
     <option name="y" value="-10" />
+=======
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/awesome-python3-webapp/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2250" />
+    <option name="y" value="170" />
+>>>>>>> remotes/origin/archer
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
@@ -45,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,11 +81,18 @@
           <select />
         </subPane>
       </pane>
+=======
+      <pane id="ProjectPane" />
+>>>>>>> remotes/origin/archer
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< HEAD
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> remotes/origin/archer
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,6 +106,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python._test_01 (2)">
     <configuration name="_test_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
@@ -146,12 +179,15 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> remotes/origin/archer
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f4312d8a-bd49-4fc3-a424-1324074cd33d" name="Default Changelist" comment="" />
+<<<<<<< HEAD
       <created>1594222795400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -165,6 +201,13 @@
       <updated>1607005450734</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+      <created>1607006668433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607006668433</updated>
+    </task>
+>>>>>>> remotes/origin/archer
     <servers />
   </component>
   <component name="TodoView">
@@ -188,10 +231,17 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49867898" visible="true" weight="0.28611898" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.48016998" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993395" visible="true" weight="0.0694051" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.48016998" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.042432815" />
+>>>>>>> remotes/origin/archer
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -219,6 +269,7 @@
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -243,6 +294,8 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> remotes/origin/archer
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -258,6 +311,7 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dev" />
     <option name="LAST_COMMIT_MESSAGE" value="dev" />
@@ -320,4 +374,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
+=======
+>>>>>>> remotes/origin/archer
 </project>
